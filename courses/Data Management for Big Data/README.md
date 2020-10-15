@@ -7,3 +7,4 @@ Course website: https://corsi.units.it/sm34/modulo/data-management-big-data-583s
 
 ### Years
 * [2018-2019](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data/2018-2019)
+* [2019-2020](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data/2019-2020)
