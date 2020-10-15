@@ -7,6 +7,8 @@ Content presented during seminars endorsed by the laboratory.
 
 ## Year 2018
 
+* Introduction to Neural Networks (Dr. Andrea Brunello, M.Sc. Eduard Ionel Stan): [Part I - Fundamentals](https://github.com/dslab-uniud/teaching/blob/main/seminars/2018/An_Introduction_to_Neural_Networks.pdf); [Part II - CNN, RNN, and others](https://github.com/dslab-uniud/teaching/blob/main/seminars/2018/Neural_Networks.pdf) 
+
 ## Year 2017
 
 ## Year 2016
