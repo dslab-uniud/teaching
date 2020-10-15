@@ -2,6 +2,8 @@
 
 Held by: Prof. Angelo Montanari (Part I), Prof. Dario Della Monica (Part II), Prof. Massimo Franceschet and M.Sc. Paolo Gallo (Part III)
 
+## Lecture material
+
 ### Part 1: Fundamentals of database systems
 
 ### Part 2: Advanced database models, languages, and systems
@@ -16,3 +18,5 @@ Held by: Prof. Angelo Montanari (Part I), Prof. Dario Della Monica (Part II), Pr
 * [Introduction to time series (extra material)](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Time_Series_Extra_Material.pdf)
 * [Managing time series with MongoDB](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Time_Series_with_MongoDB.zip)
 * [Hadoop and MapReduce](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Hadoop_and_MapReduce.zip)
+
+## Exams
