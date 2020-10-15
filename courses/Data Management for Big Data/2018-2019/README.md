@@ -2,11 +2,11 @@
 
 Held by: Prof. Angelo Montanari (Part I), Prof. Dario della Monica (Part II), Prof. Massimo Franceschet and M.Sc. Paolo Gallo (Part III)
 
-## Part 1: Fundamentals of database systems
+### Part 1: Fundamentals of database systems
 
-## Part 2: Advanced database models, languages, and systems
+### Part 2: Advanced database models, languages, and systems
 
-## Part 3: Data analysis and big data
+### Part 3: Data analysis and big data
 * [Data warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Data_Warehousing.zip)
 * [Introduction to big data](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Introduction_to_Big_Data.zip)
 * [Introduction to NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Introduction_To_NoSQL.zip)
