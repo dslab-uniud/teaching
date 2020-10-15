@@ -8,7 +8,7 @@ Content presented during seminars endorsed by the laboratory.
 ## Year 2019
 * [Model checking: the interval way (Prof. Angelo Montanari)](https://overlay.uniud.it/activities/iFM2/ifm2-montanari.pdf)
 * [Parity-energy ATL for qualitative and quantitative reasoning in MAS (Dr. Dario Della Monica)](https://overlay.uniud.it/activities/iFM2/ifm2-della-monica.pdf)
-* [On Ehrenfeucht conjecture and its applications to transducer equivalence](https://overlay.uniud.it/activities/iFM2/ifm2-puppis.zip)
+* [On Ehrenfeucht conjecture and its applications to transducer equivalence (Dr. Gabriele Puppis)](https://overlay.uniud.it/activities/iFM2/ifm2-puppis.zip)
 
 ## Year 2018
 
