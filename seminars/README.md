@@ -3,6 +3,8 @@ Content presented during seminars endorsed by the laboratory.
 
 ## Year 2020
 
+* [Synthesis with binary predicates (Dr. Pietro Sala)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2020/Synthesis_Binary_Predicates.pdf)
+
 ## Year 2019
 
 ## Year 2018
