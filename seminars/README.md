@@ -6,6 +6,9 @@ Content presented during seminars endorsed by the laboratory.
 * [Synthesis with binary predicates (Dr. Pietro Sala)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2020/Synthesis_Binary_Predicates.pdf)
 
 ## Year 2019
+* [Model checking: the interval way (Prof. Angelo Montanari)](https://overlay.uniud.it/activities/iFM2/ifm2-montanari.pdf)
+* [Parity-energy ATL for qualitative and quantitative reasoning in MAS (Dr. Dario Della Monica)](https://overlay.uniud.it/activities/iFM2/ifm2-della-monica.pdf)
+* [On Ehrenfeucht conjecture and its applications to transducer equivalence](https://overlay.uniud.it/activities/iFM2/ifm2-puppis.zip)
 
 ## Year 2018
 
