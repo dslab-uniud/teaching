@@ -1,6 +1,6 @@
 # 2018-2019 edition of the course
 
-Held by: Prof. Angelo Montanari (Part I), Prof. Dario Della Monica (Part II), Prof. Massimo Franceschet and M.Sc. Paolo Gallo (Part III)
+Held by: Prof. Angelo Montanari (Part I), Dr. Dario Della Monica (Part II), Prof. Massimo Franceschet and M.Sc. Paolo Gallo (Part III)
 
 ## Lecture materials
 
