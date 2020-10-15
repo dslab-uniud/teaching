@@ -11,7 +11,7 @@ Content used within the courses held by laboratory members.
 
 
 ### Other courses (PhD, etc.)
-* [Ph.D. course on timeline-based planning](https://github.com/dslab-uniud/teaching/tree/main/courses/Timeline-based%20planning)
+* [Timeline-based planning (Ph.D. course)](https://github.com/dslab-uniud/teaching/tree/main/courses/Timeline-based%20planning)
 
 ## University of Trieste
 ### Master's courses
