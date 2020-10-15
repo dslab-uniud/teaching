@@ -7,7 +7,7 @@ Held by: Prof. Angelo Montanari (Part I), Prof. Dario della Monica (Part II), Pr
 ## Part 2: Advanced database models, languages, and systems
 
 ## Part 3: Data analysis and big data
-* Data warehousing
+* [Data warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2018-2019/Data_Warehousing.zip)
 * Introduction to big data
 * Introduction to NoSQL
 * Text mining
