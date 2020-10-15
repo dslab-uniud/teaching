@@ -2,6 +2,8 @@
 
 Held by: Prof. Angelo Montanari (Part I), Prof. Dario Della Monica (Part II), Dr. Andrea Brunello (Part III)
 
+## Lecture materials
+
 ### Part 1: Fundamentals of database systems
 
 ### Part 2: Advanced database models, languages, and systems
@@ -16,3 +18,4 @@ Held by: Prof. Angelo Montanari (Part I), Prof. Dario Della Monica (Part II), Dr
 * [Hadoop](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/Hadoop_and_MapReduce.pdf), [VIDEO: Big Data is (at least) Four Different Problems, VIDEO: Top Ten Big Data Blunder](https://www.youtube.com/watch?v=KRcecxdGxvQ)
 * [Introduction to MongoDB](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/Introduction_to_MongoDB.pdf), [Managing time series in MongoDB](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/Managing_Time_Series_with_MongoDB.pdf)
 
+## Exams
