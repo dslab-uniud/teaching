@@ -1,6 +1,6 @@
 # 2019-2020 edition of the course
 
-Held by: Prof. Angelo Montanari (Part I), Prof. Dario Della Monica (Part II), Dr. Andrea Brunello (Part III)
+Held by: Prof. Angelo Montanari (Part I), Dr. Dario Della Monica (Part II), Dr. Andrea Brunello (Part III)
 
 ## Lecture materials
 
