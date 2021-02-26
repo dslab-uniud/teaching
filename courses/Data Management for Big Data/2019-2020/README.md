@@ -19,3 +19,6 @@ Held by: Prof. Angelo Montanari (Part I), Dr. Dario Della Monica (Part II), Dr. 
 * [Introduction to MongoDB](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/Introduction_to_MongoDB.pdf), [Managing time series in MongoDB](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/Managing_Time_Series_with_MongoDB.pdf)
 
 ## Exams
+* 2021-02-15: [link to pdf](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/21_02_15_test_II_appello_invernale.pdf)
+* 2021-02-01: [link to pdf](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/21_02_01_test_I_appello_invernale.pdf)
+* 2020-10-07: [link to pdf](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/20_07_10_test_II_appello_estivo.pdf)
