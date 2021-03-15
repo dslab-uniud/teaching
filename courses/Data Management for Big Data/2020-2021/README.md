@@ -11,6 +11,7 @@ Held by: Dr. Andrea Brunello (Part I) and Dr. Dario Della Monica (Part II and Pa
 * Lecture 3: [Normalization](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/5%20-%20Normalization.pdf), [Relational Algebra](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/6%20-%20Relational%20Algebra.pdf)
 * Lecture 4: [SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/7%20-%20SQL.pdf)
 * Lecture 5: [Intermediate SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/7b%20-%20Intermediate%20SQL.pdf), [Transactions](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/8%20-%20Transactions.pdf)
+* Lecture 6: [Concurrency control](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/9%20-%20Concurrency%20Control.pdf), [Storage and file structure](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/10%20-%20Storage%20and%20file%20structure.pdf), [Indexing and hashing](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/11%20-%20Indexing%20and%20hashing.pdf)
 
 ### Part 2: Advanced database models, languages, and systems
 
