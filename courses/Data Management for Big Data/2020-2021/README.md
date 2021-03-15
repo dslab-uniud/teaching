@@ -17,4 +17,8 @@ Held by: Dr. Andrea Brunello (Part I) and Dr. Dario Della Monica (Part II and Pa
 
 ### Part 3: Data analysis and big data
 
+## Other resources
+* [Dr. Dario Della Monica's homepage](https://users.dimi.uniud.it/~dario.dellamonica/teaching.php): course syllabus and other info
+* [Prof. Angelo Montanari's material](http://users.dimi.uniud.it/~angelo.montanari/courses.php): you can find additional material and exercises referring to the previous editions of DMBD course, and to the Databses course (mainly in Italian)
+
 ## Exams
