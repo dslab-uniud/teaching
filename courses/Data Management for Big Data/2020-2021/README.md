@@ -19,6 +19,6 @@ Held by: Dr. Andrea Brunello (Part I) and Dr. Dario Della Monica (Part II and Pa
 
 ## Other resources
 * [Dr. Dario Della Monica's homepage](https://users.dimi.uniud.it/~dario.dellamonica/teaching.php): course syllabus and other info
-* [Prof. Angelo Montanari's material](http://users.dimi.uniud.it/~angelo.montanari/courses.php): you can find additional material and exercises for the part I looking at the sections related to previous editions of the DMBD course and to the Databases course (mainly in Italian)
+* [Prof. Angelo Montanari's material](http://users.dimi.uniud.it/~angelo.montanari/courses.php): you can find additional material and exercises for the Part 1 looking at the sections related to previous editions of the DMBD course and to the Databases course (mainly in Italian)
 
 ## Exams
