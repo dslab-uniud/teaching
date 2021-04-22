@@ -1,5 +1,5 @@
-# Data Management for Big Data
-This directory contains all the materials for the joint course "Data Management for Big Data", held by the universities of Udine and Trieste, together with SISSA and ICTP.
+# Data management for Big Data / Advanced Database Systems for Big Data
+This directory contains all the materials for the joint course "Data Management for Big Data / Advanced Database Systems for Big Data", held by the universities of Udine and Trieste, together with SISSA and ICTP.
 
 The course belongs to the Master Degree in Data Science and Scientific Computing: https://dssc.units.it/
 
