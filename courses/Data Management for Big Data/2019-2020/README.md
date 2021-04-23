@@ -7,6 +7,7 @@ Held by: Prof. Angelo Montanari (Part I), Dr. Dario Della Monica (Part II), Dr. 
 ### Part 1: Fundamentals of database systems
 
 ### Part 2: Advanced database models, languages, and systems
+* Click [here](https://users.dimi.uniud.it/~dario.dellamonica/teaching/19_20_2sem_DMBD/19_20_2sem_DMBD.php) for information and material for this part of the course
 
 ### Part 3: Data analysis and big data
 * [Introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2019-2020/Introduction_Part_3.zip)
