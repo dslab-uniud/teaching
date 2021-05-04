@@ -11,4 +11,4 @@ Content used within the courses held by laboratory members.
 
 ### Other courses (PhD, etc.)
 * [Timeline-based planning (Ph.D. course)](https://github.com/dslab-uniud/teaching/tree/main/courses/Timeline-based%20planning)
-
+* [Data Management for Big Data, held within the Filosofia del Digitale first-level master course](https://github.com/dslab-uniud/teaching/tree/main/courses/Filosofia%20del%20Digitale)
