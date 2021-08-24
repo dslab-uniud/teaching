@@ -4,7 +4,8 @@ Tenuto da Andrea Brunello, PhD
 
 ## Materiali del corso
 
-### Slide:
+
+### Slide
 
 
 ### Bibliografia
