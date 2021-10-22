@@ -20,11 +20,11 @@ Tenuto da Andrea Brunello, PhD
 #### Parte 2: sistemi per la gestione dell'informazione
 
 * Basi di dati relazionali
- * [Introduzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/6%20-%20Basi_di_dati_relazionali%20-%20Intro.pdf), [Esercizi su chiavi candidate e chiavi esterne](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/6b%20-%20Basi_di_dati_relazionali%20-%20Esercizi.pdf)
- * [Cenni sulla normalizzazione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/7%20-%20Basi_di_dati_relazionali___Normalizzazione.pdf)
- * [Argomenti avanzati: transazioni e indici](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/8%20-%20Basi_di_dati_relazionali___Argomenti_avanzati.pdf)
- * [Software DBMS relazionali](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/9%20-%20Basi_di_dati_relazionali___DBMS_Relazionali.pdf)
- * Linguaggio SQL
-  * [Introduzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/10%20-%20Basi_di_dati_relazionali___SQL.pdf)
+  * [Introduzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/6%20-%20Basi_di_dati_relazionali%20-%20Intro.pdf), [Esercizi su chiavi candidate e chiavi esterne](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/6b%20-%20Basi_di_dati_relazionali%20-%20Esercizi.pdf)
+  * [Cenni sulla normalizzazione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/7%20-%20Basi_di_dati_relazionali___Normalizzazione.pdf)
+  * [Argomenti avanzati: transazioni e indici](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/8%20-%20Basi_di_dati_relazionali___Argomenti_avanzati.pdf)
+  * [Software DBMS relazionali](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/9%20-%20Basi_di_dati_relazionali___DBMS_Relazionali.pdf)
+  * Linguaggio SQL
+    * [Introduzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/10%20-%20Basi_di_dati_relazionali___SQL.pdf)
 
 ### Bibliografia
