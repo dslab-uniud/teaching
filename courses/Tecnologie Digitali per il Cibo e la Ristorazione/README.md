@@ -26,6 +26,6 @@ Tenuto da Andrea Brunello, PhD
   * [Software DBMS relazionali](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/9%20-%20Basi_di_dati_relazionali___DBMS_Relazionali.pdf)
   * Linguaggio SQL
     * [Introduzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/10%20-%20Basi_di_dati_relazionali___SQL.pdf)
-    * [Codice SQL per la generazione dello schema di base di dati Northwind](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/northwind_ddl.sql), [Codice SQL mostrato nell'esempio a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/codice_esempio.sql)
+    * [Codice SQL mostrato a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/codice_esempio.sql)
 
 
