@@ -423,12 +423,17 @@ FROM instructor;
 --      le operazioni possono confrontare attributi fra loro: attr_a < attr_b
 --      o possono confrontare un attributo con una costante: attr_a = 'Mary'
 -- Le singole condizioni possono essere legate con i connettivi già noti: AND, OR, NOT
+-- Possono essere utilizzate le parentesi: attr_a > 5 AND NOT(attr_b = 'c' AND attr_c = 'attr_d')
 
--- Estraiamo tutti gli istruttori afferenti al DMIF e che percepiscono più di 55.000 Euro
+-- Estraiamo tutti gli istruttori afferenti al DMIF 
 SELECT *
 FROM instructor
-WHERE dept = 'DMIF' AND salary > 55000;
+WHERE dept = 'DMIF';
 
+
+-- ESERCIZIO: estraiamo tutti gli istruttori afferenti al DMIF e che percepiscono più di 55.000 Euro
+
+-- ESERCIZIO: estraiamo il numero di istruttori afferenti al DMIF e che percepiscono più di 55.000 Euro
 
 -- ESERCIZIO: estrarre i nomi di tutti gli studenti che hanno > 0 crediti (attributo tot_cred)
 
