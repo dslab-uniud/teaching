@@ -4,47 +4,39 @@ Interrogazioni da svolgere sulla base di dati "azienda"
 
 
 
--- ESERCIZIO 1: ottenere i codici fiscali degli impiegati che sono coinvolti in almeno un progetto
 
+-- ESERCIZIO 1: ottenere i codici fiscali degli impiegati che sono coinvolti in almeno un progetto
 
 
 --ESERCIZIO 2: ottenere i codici fiscali degli impiegati che lavorano a più di un progetto
 
 
+--ESERCIZIO 3: ottenere i codici fiscali degli impiegati non lavorano a nessun progetto
 
---ESERCIZIO 3: ottenere il numero dei supervisori (attenzione alle eventuali ripetizioni) 
+
+--ESERCIZIO 4: ottenere il numero dei supervisori (attenzione alle eventuali ripetizioni) 
 -- si osservi che il valore nullo non è considerato dall'operatore COUNT
 -- questo è vero anche per le altre funzioni aggregate
 
 
-
---ESERCIZIO 4: produrre in output l'elenco dei codici fiscali di tutti gli impiegati con il corrispondente 
+--ESERCIZIO 5: produrre in output l'elenco dei codici fiscali di tutti gli impiegati con il corrispondente 
 --             numero di progetti a cui lavorano, ordinato in modo decrescente per numero di progetti
 
 
-
---ESERCIZIO 5: ottenere tutti i dati relativi agli impiegati che non hanno supervisori.
+--ESERCIZIO 6: ottenere tutti i dati relativi agli impiegati che non hanno supervisori.
 --             E' qui possibile utilizzare, nella clausola where, il costrutto "nomeattributo IS NULL",
 --			   che verifica se un determinato attributo è null e, in tal caso, restituisce TRUE
 
 
-
---ESERCIZIO 6: ottenere il codice fiscale degli impiegati che non sono supervisori
-
+--ESERCIZIO 7: ottenere il codice fiscale degli impiegati che non sono supervisori
 
 
---ESERCIZIO 7: ottenere il codice fiscale degli impiegati che lavorano almeno 10 ore in ciascuno dei progetti
+--ESERCIZIO 8: ottenere il codice fiscale degli impiegati che lavorano almeno 10 ore in ciascuno dei progetti
 --             in cui sono coinvolti, e che sono coinvolti in almeno un progetto
 
 
-
---ESERCIZIO 8: ottenere il nome e cognome del/degli impiegato/i con lo stipendio più alto
+--ESERCIZIO 9: ottenere il nome e cognome del/degli impiegato/i con lo stipendio più alto
 -- La seconda soluzione fa uso delle funzioni di aggregazione
-
-
-
---ESERCIZIO 9: ottenere il nome e cognome dei manager che guadagnano quanto o più di ogni impiegato che lavora al progetto 7
-
 
 
 --ESERCIZIO 10: per ogni impiegato che non è un manager, ottenere il numero totale di ore di lavoro settimanali, 
