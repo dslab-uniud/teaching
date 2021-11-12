@@ -1,0 +1,57 @@
+/*
+Come prima cosa, definire una nuova base di dati, denominata "azienda", attraverso l'interfaccia di PgAdmin.
+Seguendo le istruzioni di seguito riportate, si definisca poi al suo interno uno schema di base di dati per 
+la gestione di impiegati, progetti e sedi, avendo cura di specificare nel dettaglio i vincoli relativi a:
+    - tipi degli attributi
+	- chiave primaria
+	- chiavi esterne
+	- not null
+	- unique
+*/
+
+
+
+
+Si definisca una tabella "impiegato", avente la seguente struttura:
+
+	impiegato(nome, cognome, cf, data_nascita, indirizzo, stipendio, supervisore, dipartimento)
+
+La tabella contiene informazioni relative agli impiegati dell'azienda.
+I tipi degli attributi sono stringa, eccetto "stipendio" che è di tipo intero e data_nascita che è di tipo "date".
+Un impiegato è identificato univocamente dal proprio codice fiscale. 
+Ciascun impiegato afferisce sempre ad un dipartimento e può avere un supervisore, esso stesso un impiegato.
+
+
+
+Si definisca una tabella "dipartimento", avente la seguente struttura:
+
+	dipartimento(numero, nome, manager)
+
+La tabella contiene informazioni relative ai dipartimenti in cui è articolata l'azienda.
+Ciascun dipartimento è identificato univocamente dal suo numero, è caratterizzato da un nome, ed è sempre
+gestito da un manager, che è un impiegato dell'azienda.
+
+
+
+Si definisca una tabella "progetto", avente la seguente struttura:
+
+	progetto(numero, nome, dipartimento)
+
+La tabella contiene informazioni relative ai progetti svolti dall'azienda.
+Ciascun progetto è identificato univocamente dal suo numero, ed è sempre assegnato ad un dipartimento.
+Inoltre, si vuole imporre anche che il nome di un progetto sia univoco all'interno di uno stesso dipartimento.
+HINT: è possibile specificare un vincolo unique su due attributi a_1, a_2 utilizzando la sintassi 
+      "CONSTRAINT nomeconstraint UNIQUE(a_1, a_2)" immediatamente dopo la parte di definizione degli attributi della tabella
+
+
+
+Si definisca una tabella "lavora_a", avente la seguente struttura:
+	
+	lavora_a(impiegato, progetto, ore_settimana)
+
+La tabella registra le assegnazioni degli impiegati ai progetti.
+Ciascun impiegato può lavorare a più progetti e, in generale, un progetto ha più impiegati assegnati.
+All'interno della tabella, inoltre, viene registrato il numero di ore settimanali spese dall'impiegato sul progetto.
+
+
+
