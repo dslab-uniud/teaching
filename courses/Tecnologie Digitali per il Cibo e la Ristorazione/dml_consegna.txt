@@ -36,7 +36,6 @@ Interrogazioni da svolgere sulla base di dati "azienda"
 
 
 --ESERCIZIO 9: ottenere il nome e cognome del/degli impiegato/i con lo stipendio più alto
--- La seconda soluzione fa uso delle funzioni di aggregazione
 
 
 --ESERCIZIO 10: per ogni impiegato che non è un manager, ottenere il numero totale di ore di lavoro settimanali, 
