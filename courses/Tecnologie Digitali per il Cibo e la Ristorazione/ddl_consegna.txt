@@ -7,6 +7,8 @@ la gestione di impiegati, progetti e sedi, avendo cura di specificare nel dettag
 	- chiavi esterne
 	- not null
 	- unique
+
+Nel seguito, per i tipi di dato stringa, si considerino sempre stringhe di lunghezza al più 50: varchar(50)
 */
 
 
@@ -17,9 +19,10 @@ Si definisca una tabella "impiegato", avente la seguente struttura:
 	impiegato(nome, cognome, cf, data_nascita, indirizzo, stipendio, supervisore, dipartimento)
 
 La tabella contiene informazioni relative agli impiegati dell'azienda.
-I tipi degli attributi sono stringa, eccetto "stipendio" che è di tipo intero e data_nascita che è di tipo "date".
 Un impiegato è identificato univocamente dal proprio codice fiscale. 
 Ciascun impiegato afferisce sempre ad un dipartimento e può avere un supervisore, esso stesso un impiegato.
+I tipi degli attributi sono stringa, eccetto "stipendio" che è di tipo intero, la data_nascita che è di tipo "date",
+e l'attributo "dipartimento" (che dipende dal tipo dell'attributo nella tabella referenziata).
 
 
 

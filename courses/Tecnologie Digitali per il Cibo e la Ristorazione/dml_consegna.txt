@@ -20,7 +20,8 @@ Interrogazioni da svolgere sulla base di dati "azienda"
 
 
 --ESERCIZIO 5: produrre in output l'elenco dei codici fiscali di tutti gli impiegati con il corrispondente 
---             numero di progetti a cui lavorano, ordinato in modo decrescente per numero di progetti
+--             numero di progetti a cui lavorano, ordinato in modo decrescente per numero di progetti.
+--             Si considerino solamente gli impiegati che lavorano ad almeno un progetto.
 
 
 --ESERCIZIO 6: ottenere tutti i dati relativi agli impiegati che non hanno supervisori.
