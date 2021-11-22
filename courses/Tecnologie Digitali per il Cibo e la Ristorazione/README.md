@@ -27,8 +27,8 @@ Tenuto da Andrea Brunello, PhD
   * Linguaggio SQL
     * [Introduzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/10%20-%20Basi_di_dati_relazionali___SQL.pdf)
     * [Codice SQL mostrato a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/codice_esempio.sql)
-    * [Esercitazione su SQL: DDL](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ddl_consegna.txt)
+    * [Esercitazione su SQL: DDL](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ddl_consegna.txt), [Possibile soluzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ddl_soluzione.sql)
     * [Esercitazione su SQL: codice per popolare la base di dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/popolamento_db.sql)
-    * [Esercitazione su SQL: DML](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/dml_consegna.txt)
+    * [Esercitazione su SQL: DML](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/dml_consegna.txt), [Possibile soluzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/dml_soluzione.sql)
 
 
