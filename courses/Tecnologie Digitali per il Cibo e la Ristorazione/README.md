@@ -30,5 +30,9 @@ Tenuto da Andrea Brunello, PhD
     * [Esercitazione su SQL: DDL](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ddl_consegna.txt), [Possibile soluzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ddl_soluzione.sql)
     * [Esercitazione su SQL: codice per popolare la base di dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/popolamento_db.sql)
     * [Esercitazione su SQL: DML](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/dml_consegna.txt), [Possibile soluzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/dml_soluzione.sql)
+    * [Basi di dati non relazionali e NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/12%20-%20Basi_di_dati_non_relazionali___NoSQL.pdf)
+    
 
+#### Parte 2: analisi dell'informazione
 
+* [Introduzione ai Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/13%20-%20Introduzione_ai_Big_Data.pdf)
