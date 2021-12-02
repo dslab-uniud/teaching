@@ -36,4 +36,4 @@ Tenuto da Andrea Brunello, PhD
 #### Parte 3: analisi dei dati
 
 * [Introduzione ai Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/13%20-%20Introduzione_ai_Big_Data.pdf)
-* Dataset per PowerBI: [dataset supermarket sales](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/supermarket_sales.csv), [dataset restaurant reviews](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ta_restaurants.csv)
+* Dataset per PowerBI: [supermarket sales](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/supermarket_sales.csv), [restaurant reviews](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ta_restaurants.csv), [crop production](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/crop_production.csv)
