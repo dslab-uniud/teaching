@@ -39,3 +39,9 @@ Tenuto da Andrea Brunello, PhD
 * Dataset per PowerBI: [supermarket sales](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/supermarket_sales.csv), [restaurant reviews](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/ta_restaurants.csv), [crop production](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/crop_production.csv), [meat_consumption](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/meat_consumption.csv)
 * [Dataset per WEKA](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/Datasets.zip)
 * [Slides sul Data Mining](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/14%20-%20Data_mining.pdf)
+* [Slides sul Text Mining](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/15%20-%20Text_mining.pdf)
+
+
+#### Esercizi
+
+* [Esercizi su SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/16%20-%20Esercizi%20SQL.pdf)
