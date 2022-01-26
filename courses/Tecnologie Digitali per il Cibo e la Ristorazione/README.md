@@ -45,3 +45,9 @@ Tenuto da Andrea Brunello, PhD
 #### Esercizi
 
 * [Esercizi su SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/16%20-%20Esercizi%20SQL.pdf)
+
+
+
+### Esami
+
+* [2022-01-26](https://github.com/dslab-uniud/teaching/blob/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione/Esame_del_26_01_2022.pdf)
