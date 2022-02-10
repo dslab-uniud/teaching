@@ -4,7 +4,7 @@ Content presented during seminars endorsed by the laboratory.
 
 ## Year 2022
 
-* [Topic Modeling: An Overview (Federico Bulzoni)]()
+* [Topic Modeling: An Overview (Federico Bulzoni)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2022/TopicModeling_an_overview.pdf)
 
 ## Year 2020
 
