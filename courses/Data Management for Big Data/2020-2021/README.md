@@ -20,3 +20,6 @@ Held by: Dr. Andrea Brunello (Part I) and Dr. Dario Della Monica (Part II and Pa
 * [Prof. Angelo Montanari's material](http://users.dimi.uniud.it/~angelo.montanari/courses.php): you can find additional material and exercises for the Part 1 looking at the sections related to previous editions of the DMBD course and to the Databases course (mainly in Italian)
 
 ## Exams
+* [2021-09-23](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/21_09_23_dmbd_II_appello_autunnale.pdf)
+* [2021-07-13](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/test_II.pdf)
+* [2021-06-28](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/21_06_28.pdf)
