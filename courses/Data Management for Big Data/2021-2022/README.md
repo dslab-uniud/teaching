@@ -1,7 +1,7 @@
 
 # 2021-2022 edition of the course
 
-Held by: Dr. Andrea Brunello (Part I) and Dr. Dario Della Monica (Part II and Part III)
+Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (Part II)
 
 ## Lecture materials
 
