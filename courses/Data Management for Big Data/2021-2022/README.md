@@ -13,12 +13,12 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 * Lecture 5:
 * Lecture 6: 
 
-### Part 2: Advanced database models, languages, and systems and Part 3: Data analysis and big data
+### Part 2: Advanced database models, languages, and systems
 * Click [here](https://users.dimi.uniud.it/~dario.dellamonica/teaching/21_22_2sem_DMBD_ADBS4BD/21_22_2sem_DMBD_ADBS4BD.php) for information and material for this part of the course
 
 
-### Part 2: Advanced database models, languages, and systems and Part 3: Data analysis and big data
-* TODO
+### Part 3: Data analysis and big data
+TODO
 
 
 ## Other resources
