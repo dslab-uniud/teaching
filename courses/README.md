@@ -2,8 +2,8 @@
 Content used within the courses held by laboratory members.
 
 ### Bachelor's courses
-* [Databases (basi di dati)](https://users.dimi.uniud.it/~angelo.montanari/courses.php#:~:text=Databases%20and%20lab%20(Basi%20di%20dati%20e%20laboratorio%20%2D%20Informatica))
-* [Digital Technologies for Food and Catering](https://github.com/dslab-uniud/teaching/tree/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione)
+* [Databases (Basi di Dati)](https://users.dimi.uniud.it/~angelo.montanari/courses.php#:~:text=Databases%20and%20lab%20(Basi%20di%20dati%20e%20laboratorio%20%2D%20Informatica))
+* [Digital Technologies for Food and Catering (Tecnologie Digitali per il Cibo e la Ristorazione)](https://github.com/dslab-uniud/teaching/tree/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione)
 
 ### Master's courses
 * [Verification and Validation Techniques for Artificial Intelligence and Cybersecurity
