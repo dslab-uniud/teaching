@@ -5,6 +5,7 @@ Content presented during seminars endorsed by the laboratory.
 ## Year 2022
 
 * [Topic Modeling: An Overview (Federico Bulzoni, M.Sc. Enrico Marzano)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2022/TopicModeling_an_overview.pdf)
+* [Interpretability in practice: a gentle introduction and case studies - TBA (Prof. Angelo Montanari, Dr. Andrea Brunello, MSc. Nicola Saccomanno)]
 
 ## Year 2020
 
