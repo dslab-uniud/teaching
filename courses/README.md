@@ -3,7 +3,7 @@ Content used within the courses held by laboratory members.
 
 ### Bachelor's courses
 * [Databases (Basi di Dati e Laboratorio)](https://users.dimi.uniud.it/~angelo.montanari/courses.php#:~:text=Databases%20and%20lab%20(Basi%20di%20dati%20e%20laboratorio%20%2D%20Informatica))
-* [Foundation of Data Science](http://users.dimi.uniud.it/~massimo.franceschet/ds/plugandplay/ds.html)
+* [Foundation of Data Science (Fondamenti di scienza dei dati e laboratorio)](http://users.dimi.uniud.it/~massimo.franceschet/ds/plugandplay/ds.html)
 * [Digital Technologies for Food and Catering (Tecnologie Digitali per il Cibo e la Ristorazione)](https://github.com/dslab-uniud/teaching/tree/main/courses/Tecnologie%20Digitali%20per%20il%20Cibo%20e%20la%20Ristorazione)
 
 ### Master's courses
