@@ -2,10 +2,11 @@
 Content used within the courses held by laboratory members.
 
 ### Bachelor's courses
-* Databases (basi di dati)
+* [Databases (basi di dati)](https://users.dimi.uniud.it/~angelo.montanari/courses.php#:~:text=Databases%20and%20lab%20(Basi%20di%20dati%20e%20laboratorio%20%2D%20Informatica))
 
 ### Master's courses
-* Automatic system verification: theory and applications
+* [Verification and Validation Techniques for Artificial Intelligence and Cybersecurity
+ (former Automatic system verification: theory and applications)](https://users.dimi.uniud.it/~angelo.montanari/courses.php#:~:text=Verification%20and%20Validation%20Techniques%20for%20Artificial%20Intelligence%20and%20Cybersecurity)
 * [Data management for big data / Advanced database systems for big data](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data)
 
 
