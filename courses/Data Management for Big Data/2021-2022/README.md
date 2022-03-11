@@ -6,8 +6,8 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 
 ### Part 1: Fundamentals of database systems
 * Lecture 1: [Couse information](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___0___Course_info.pdf), [Introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___1___Introduction.pdf), [Entity-Relationship diagrams](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___2___ER_Model.pdf)
-* Lecture 2: [Relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___3___Relational_model.pdf)
-* Lecture 3: [Entity to relational mapping](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/4%20-%20ER%20to%20relational%20mapping.pdf), [Mapping generalizations](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/4b%20-%20Mapping%20generalizations.pdf)
+* Lecture 2: [Relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___3___Relational_model.pdf), [Entity to relational mapping](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/4%20-%20ER%20to%20relational%20mapping.pdf), [Mapping generalizations](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/4b%20-%20Mapping%20generalizations.pdf)
+* Lecture 3: 
 * Lecture 4: 
 * Lecture 5:
 * Lecture 6: 
