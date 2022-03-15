@@ -7,7 +7,7 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 ### Part 1: Fundamentals of database systems
 * Lecture 1: [Couse information](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___0___Course_info.pdf), [Introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___1___Introduction.pdf), [Entity-Relationship diagrams](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___2___ER_Model.pdf), [A solution to ER exercise 2](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/Ex%202%20ER%20solution.pdf)
 * Lecture 2: [Relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___3___Relational_model.pdf), [Entity to relational mapping](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/4%20-%20ER%20to%20relational%20mapping.pdf), [Mapping generalizations](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/4b%20-%20Mapping%20generalizations.pdf)
-* Lecture 3: 
+* Lecture 3: [Normalization](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/5%20-%20Normalization.pdf), [Relational algebra](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/6%20-%20Relational%20Algebra.pdf)
 * Lecture 4: 
 * Lecture 5:
 * Lecture 6: 
