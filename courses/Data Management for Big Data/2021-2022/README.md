@@ -22,7 +22,7 @@ TODO
 
 ## Other resources
 * [Prof. Angelo Montanari's material](http://users.dimi.uniud.it/~angelo.montanari/courses.php): you can find additional material and exercises for the Part 1 looking at the sections related to previous editions of the DMBD course and to the Databases course (mainly in Italian)
-* [Chronogeograph](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar): you can use this tool to design Entity-Relationship diagrams (Java based)
+* [ChronoGeoGraph](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar): you can use this tool to design Entity-Relationship diagrams (Java based)
 * [Postgres and PgAdmin download page](https://www.postgresql.org/download/)
 
 ## Exams
