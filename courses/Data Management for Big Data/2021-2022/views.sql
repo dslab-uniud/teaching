@@ -6,19 +6,21 @@ hold any data.
 
 A view is defined by means of a SQL query.
 
-VIEWS have multiple usages, for example:
+VIEWS have multiple purposes, for example:
 
-	- they can be used to provied different perspectives over
+	- they can be used to provide different perspectives over
 	  the database to different users: for instance, given a table
 	  professor(name, surname, salary, address, email), we may
-	  want to hide the addres information to a student. By means of
+	  want to hide the address information to a student. By means of
 	  a view, we can build a virtual table, based on "professor", that
-	  just shows name, surname, and email. Then, we may grant to a student
+	  just shows name, surname, and email. Then, we can grant to a student
 	  the access to the view only, and not to the table "professor"
 
 	- they can be used to save time when writing queries. For instance, if
-	  we are frequently interested in calculating information regarding professors 
-	  of the DMIF department, we may define a view containing just information over them
+	  we are frequently interested in calculating information regarding
+	  professors of the DMIF department, we may define a view containing 
+	  just information over them, so to avoid specifying the condition over
+	  the department membership every time
 
 VIEWS can be created by means of the CREATE VIEW statement
 */
@@ -41,7 +43,7 @@ FROM dmif_professors
 
 
 /*
-Behind the hood, Postgres is simply combining the conditions specified on your
+Behind the hood, Postgres is simply combining the conditions specified by your
 query with those specified in the definition of the view.
 */
 
@@ -61,11 +63,11 @@ In Postgres, a view is updatable when it meets the following conditions:
 	  which can be a table or another updatable view.
 	- The defining query must not contain one of the following clauses at the top level: 
 	  GROUP BY, HAVING, LIMIT, OFFSET, DISTINCT, WITH, UNION, INTERSECT, and EXCEPT.
-	- The selection list must not contain any window function , any set-returning function, or any aggregate 
-	  function such as SUM, COUNT, AVG, MIN, and MAX.
+	- The selection list must not contain any window function, any set-returning function,
+	  or any aggregate function such as SUM, COUNT, AVG, MIN, and MAX.
 
-Updating views is, from a general point of view, not recommeneded. Instead, one should
-operate on the original tables.
+Updating views is, from a general point of view, not recommended, even when possible. 
+One should operate on the original tables instead.
 */
 
 
@@ -76,12 +78,14 @@ the view.
 
 What if the SQL code involves very complex operations, that may take a long
 time before being executed?
+In such a situation, it may be useful to precompute such data, not doing 
+it "live".
 
 A solution is provided by MATERIALIZED VIEWS.
 A materialized view, as a difference with respect to classical views, stores also
 the result of the SQL query that defines it.
 
-The view gets populated at the time of its definition. Than, its content can 
+The view gets populated at the time of its definition. Then, its content can 
 be refreshed by the REFRESH MATERIALIZED VIEW command.
 */
 
@@ -99,7 +103,7 @@ SELECT *
 FROM dmif_professors_sal_70;
 
 
--- Then, we update the salary of professor 321, making it lowe
+-- Then, we update the salary of professor 321, making it lower
 -- than 70000
 
 UPDATE professor
@@ -108,7 +112,6 @@ WHERE ssn = 321;
 
 
 -- Our materialized view still contains professor 321
-
 
 SELECT *
 FROM dmif_professors_sal_70;
@@ -123,3 +126,10 @@ REFRESH MATERIALIZED VIEW dmif_professors_sal_70;
 
 SELECT *
 FROM dmif_professors_sal_70;
+
+
+/*
+Materialized views are a good choice when the involved data
+do not change very frequently or when some latency with respect
+to the latest information available can be tolerated.
+*/
