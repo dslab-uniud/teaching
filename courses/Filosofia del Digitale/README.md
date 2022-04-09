@@ -1,4 +1,4 @@
-Material for the course "Data Management for Big Data", held within the "Filosofia del Digitale" (Digital Philosophy) first-level master course, 2022 edition.
+Material for the course "Data Management for Big Data", held within "Filosofia del Digitale" (Digital Philosophy) first-level master course, 2022 edition.
 
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___0___Course_introduction.pdf)
 * [Introduction to database management systems](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___1___Introduction_to_Databases.pdf)
@@ -7,7 +7,7 @@ Material for the course "Data Management for Big Data", held within the "Filosof
 
 
 
-Material for the course "Data Management for Big Data", held within the "Filosofia del Digitale" (Digital Philosophy) first-level master course, 2021 edition.
+Material for the course "Data Management for Big Data", held within "Filosofia del Digitale" (Digital Philosophy) first-level master course, 2021 edition.
 
 * [Introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/0%20-%20Introduction.pdf)
 * [Relational Model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/1%20-%20Relational%20Model.pdf)
