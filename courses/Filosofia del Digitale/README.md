@@ -3,7 +3,7 @@ Material for the course "Data Management for Big Data", held within "Filosofia d
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___0___Course_introduction.pdf)
 * [Introduction to database management systems](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___1___Introduction_to_Databases.pdf)
 * [Entity-Relationship model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___2___ER.pdf)
-
+* [Relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___3___Relational_model.pdf)
 
 
 
