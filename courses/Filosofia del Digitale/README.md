@@ -2,9 +2,9 @@ Material for the course "Data Management for Big Data", held within "Filosofia d
 
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___0___Course_introduction.pdf)
 * [Introduction to database management systems](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___1___Introduction_to_Databases.pdf)
-* [Entity-Relationship model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___2___ER.pdf)
+* [Entity-Relationship model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___2___ER.pdf), [ChronoGeoGraph tool for ER design](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar)
 * [Relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___3___Relational_model.pdf)
-* [ER-to-relational example](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ER%20to%20relational%20mapping%20example.pdf), [ChronoGeoGraph tool for ER design](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar)
+* [ER-to-relational example](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ER%20to%20relational%20mapping%20example.pdf)
 
 
 
