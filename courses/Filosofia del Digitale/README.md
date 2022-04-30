@@ -8,6 +8,7 @@ Material for the course "Data Management for Big Data", held within "Filosofia d
 * [SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___4___SQL.pdf), [Code (with comments) shown at the lecture](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/codice_esempio.sql)
 * [NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___5___NoSQL.pdf)
 * [Data Warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___6___Data_Warehousing.pdf)
+* [Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___7___Big_Data_and_Analytics.pdf)
 
 
 
