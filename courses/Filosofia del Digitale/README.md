@@ -7,6 +7,7 @@ Material for the course "Data Management for Big Data", held within "Filosofia d
 * [ER-to-relational mapping](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/4%20-%20ER%20to%20relational%20mapping.pdf), [Mapping generalizations](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/4b%20-%20Mapping%20generalizations.pdf), [ER-to-relational example](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/ER%20to%20relational%20mapping%20example.pdf)
 * [SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___4___SQL.pdf), [Code (with comments) shown at the lecture](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/codice_esempio.sql)
 * [NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___5___NoSQL.pdf)
+* [Data Warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___6___Data_Warehousing.pdf)
 
 
 
