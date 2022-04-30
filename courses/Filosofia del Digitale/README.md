@@ -9,6 +9,8 @@ Material for the course "Data Management for Big Data", held within "Filosofia d
 * [NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___5___NoSQL.pdf)
 * [Data Warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___6___Data_Warehousing.pdf)
 * [Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___7___Big_Data_and_Analytics.pdf)
+* [The GAP Case](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___8___The_Gap_Case.pdf)
+
 
 
 
