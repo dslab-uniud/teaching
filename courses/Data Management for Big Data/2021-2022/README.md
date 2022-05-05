@@ -18,6 +18,13 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 
 ### Part 3: Data analysis and big data
 * Lecture 1: [Welcome to the third part of the course](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___5___Intro_Part_III.pdf), [Introduction to NoSQL databases](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___6___Introduction_To_NoSQL.pdf)
+* Lecture 2: 
+* Lecture 3: 
+* Lecture 4: 
+* Lecture 5: 
+* Lecture 6: 
+* Lecture 7: 
+* Lecture 8: 
 
 
 ## Other resources
