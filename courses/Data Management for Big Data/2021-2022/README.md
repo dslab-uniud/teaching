@@ -20,8 +20,8 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 * Lecture 1: [Welcome to the third part of the course](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___5___Intro_Part_III.pdf), [Introduction to NoSQL databases](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___6___Introduction_To_NoSQL.pdf)
 * Lecture 2: [Data Warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___7___Data_Warehousing.pdf)
 * Lecture 3: [The Gap case (part 1)](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___8___The_Gap_Case_Part_1.pdf)
-* Lecture 4: [Introduction to Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___9___Introduction_to_Big_Data.pdf)
-* Lecture 5: 
+* Lecture 4: [UFO dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ufo_sightings_scrubbed.csv), [Restaurants dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/Restaurant_ratings.zip)
+* Lecture 5: [Introduction to Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___9___Introduction_to_Big_Data.pdf)
 * Lecture 6: 
 * Lecture 7: 
 * Lecture 8: 
