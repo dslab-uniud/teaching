@@ -22,8 +22,8 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 * Lecture 3: [The Gap case (part 1)](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___8___The_Gap_Case_Part_1.pdf)
 * Lecture 4: [UFO dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ufo_sightings_scrubbed.csv), [Restaurants dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/Restaurant_ratings.zip) for Power BI
 * Lecture 5: [Introduction to Big Data](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___9___Introduction_to_Big_Data.pdf), [The Gap case (full)](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___8___The_Gap_Case_FULL.pdf), [Hadoop and MapReduce](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/TS_2022___10___Hadoop_and_MapReduce.pdf)
-* Lecture 6: 
-* Lecture 7: 
+* Lecture 6: Datasets for Weka: [Titanic](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/titanic.arff), [Housing](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/housing.arff), [Iris](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/iris.arff), [Food nutrients](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/Food_classif.arff), [Coordinates](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/Coordinates.csv)
+* Lecture 7: [Text mining]()
 * Lecture 8: 
 
 
@@ -31,5 +31,6 @@ Held by: Dr. Andrea Brunello (Part I and Part III) and Dr. Dario Della Monica (P
 * [Prof. Angelo Montanari's material](http://users.dimi.uniud.it/~angelo.montanari/courses.php): you can find additional material and exercises for the Part 1 looking at the sections related to previous editions of the DMBD course and to the Databases course (mainly in Italian)
 * [ChronoGeoGraph](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar): you can use this tool to design Entity-Relationship diagrams (Java based)
 * [Postgres and PgAdmin download page](https://www.postgresql.org/download/)
+* [Weka download page](https://waikato.github.io/weka-wiki/downloading_weka/)
 
 ## Exams
