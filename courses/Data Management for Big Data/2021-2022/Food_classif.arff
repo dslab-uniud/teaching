@@ -1,0 +1,48 @@
+%%%%%%
+%
+% EnergyCal : calories for 100 gr
+% ProteinGram : proteins in grams for 100 gr
+% FatGram : fats in grams for 100gr
+% CalciumMG : calcium in milligrams for 100 gr
+% IronMG : iron in milligrams for 100gr
+%
+%%%%%%
+
+
+
+@relation FoodNutrient-weka.filters.unsupervised.attribute.Remove-R1-4
+
+@attribute EnergyCal numeric
+@attribute ProteinGram numeric
+@attribute FatGram numeric
+@attribute CalciumMG numeric
+@attribute IronMG numeric
+
+@data
+340,20,28,9,2.6
+245,21,17,9,2.7
+420,15,39,7,2
+375,19,32,9,2.6
+180,22,10,17,3.7
+115,20,3,8,1.4
+170,25,7,12,1.5
+160,26,5,14,5.9
+265,20,20,9,2.6
+300,18,25,9,2.3
+340,20,28,9,2.5
+340,19,29,9,2.5
+355,19,30,9,2.4
+205,18,14,7,2.5
+185,23,9,9,2.7
+135,22,4,25,0.6
+70,11,1,82,6
+45,7,1,74,5.4
+90,14,2,38,0.8
+135,16,5,15,0.5
+200,19,13,5,1
+155,16,9,157,1.8
+195,16,11,14,1.3
+120,17,5,159,0.7
+180,22,9,367,2.5
+170,25,7,7,1.2
+110,23,1,98,2.6
