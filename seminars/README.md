@@ -7,6 +7,7 @@ Content presented during seminars endorsed by the laboratory.
 * [Topic Modeling: An Overview (Federico Bulzoni, M.Sc. Enrico Marzano)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2022/TopicModeling_an_overview.pdf)
 * [Monitors that Learn From Failures (Prof. Angelo Montanari, Dr. Andrea Brunello)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2022/Monitors_that_learn_from_failures_2022.pdf)
 * [Interpretability in Machine Learning (Dr. Andrea Brunello)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2022/Seminario_Interpretability___Serra.pdf)
+* [Improving the Estimation of Fingerprint Spatial Relationships via Deep Metric Learning on Continuous Similarities (MSc. Nicola Saccomanno)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2022/MobiUK_2022_Conference_Presentation_DEF.pdf)
 * Interpretability in practice: a gentle introduction and case studies - TBA (Prof. Angelo Montanari, Dr. Andrea Brunello, MSc. Nicola Saccomanno)
 
 ## Year 2020
