@@ -1,1 +1,1 @@
-Materiale per il corso di Basi di Dati, laurea in Filosofia e Trasformazione Digitale.
+Materiale per il corso di Basi di Dati, Laurea in Filosofia e Trasformazione Digitale.
