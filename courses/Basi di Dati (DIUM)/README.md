@@ -25,5 +25,7 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 
 ## Materiale presentato a lezione
 
-- 2023-02-15: 
+- 2023-02-15: [Introduzione al corso](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___0___Informazioni_sul_corso.pdf)
 - 2023-02-16: 
+
+## Esami passati
