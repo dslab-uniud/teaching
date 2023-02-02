@@ -15,4 +15,5 @@ Argomenti trattati nel corso:
  
 # Materiale presentato a lezione
 
-- Introduzione al corso
+- 2023-02-15: 
+- 2023-02-16: 
