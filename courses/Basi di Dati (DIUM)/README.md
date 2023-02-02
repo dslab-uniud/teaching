@@ -13,3 +13,4 @@ Argomenti trattati nel corso:
  
  Per le registrazioni delle lezioni, si rimanda alla [classe Teams]( https://teams.microsoft.com/l/channel/19%3aDR6bX1SbV4vSHmwsRGoa5bfkltc87hKzwS_Lg7upfpk1%40thread.tacv2/Generale?groupId=15ef81e6-971e-4207-bb51-a61c12785a63&tenantId=6e6ade15-296c-4224-ac58-1c8ec2fd53a8)
  
+# Materiale presentato a lezione
