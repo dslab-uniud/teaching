@@ -1,6 +1,6 @@
 Materiale per il corso di Basi di Dati, Laurea in Filosofia e Trasformazione Digitale.
 
-Le lezioni si terranno mercoledì e giovedì dalle ore 09:00 alle ore 10:30 (no lezione 22 febbraio e 8 marzo), per un totale di 20 lezioni.
+Le lezioni si terranno mercoledì e giovedì dalle ore 09:00 alle ore 10:30 (no lezione 22 febbraio, 8 marzo e 6 aprile), per un totale di 20 lezioni.
 
 Argomenti trattati nel corso:
  - Basi di dati e DBMS
