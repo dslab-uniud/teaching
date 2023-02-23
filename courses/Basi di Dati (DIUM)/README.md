@@ -26,6 +26,8 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 ## Materiale presentato a lezione
 
 - 2023-02-15: [Presentazione del corso](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___0___Informazioni_sul_corso.pdf), [Introduzione alle basi di dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___1___Introduction.pdf)
-- 2023-02-16: [Il modello Entità-Relazione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___2___ER_Model.pdf)
+- 2023-02-16: Introduzione alle basi di dati (cont.)
+- 2023-02-23: [Il modello Entità-Relazione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___2___ER_Model.pdf)
+- 2023-03-01: Il modello Entità-Relazione (cont.)
 
 ## Esami passati
