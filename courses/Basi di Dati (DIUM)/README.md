@@ -31,6 +31,6 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-03-01: Il modello Entità-Relazione (cont.)
 - 2023-03-02: Esercizi sul modello E-R; [Soluzione dell'Esercizio 1, serie TV](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_1.png)
 - 2023-03-09: Esercizi sul modello E-R; [Soluzione dell'Esercizio 2, Università](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_2.jpg)
-- 2023-03-15: Esercizi sul modello E-R; [Presentazione di ChronoGeoGraph e Draw.io](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___3___ChronoGeoGraph_e_Draw_io.pdf); [Download di ChronoGeoGraph](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar); [Pagina web di Draw.io](https://app.diagrams.net/)
+- 2023-03-15: Esercizi sul modello E-R; [Presentazione di ChronoGeoGraph e Draw.io](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___3___ChronoGeoGraph_e_Draw_io.pdf); [Download di ChronoGeoGraph](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar); [Pagina web di Draw.io](https://app.diagrams.net/), [Soluzione dell'Esercizio 3](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_3.png)
 
 ## Esami passati
