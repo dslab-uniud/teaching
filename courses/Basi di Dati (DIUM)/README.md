@@ -37,4 +37,4 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 ## Esami passati
 
 Non ci sono ancora esami passati, trattandosi della prima edizione del corso.
-Potete, per fare pratica su E-R e SQL, fare riferimento agli esami passati di questo corso: [Data Management for Big Data](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data)
+Potete, per fare pratica su E-R e SQL, fare riferimento agli esami passati di questo corso (Part I): [Data Management for Big Data](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data)
