@@ -38,3 +38,6 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 
 Non ci sono ancora esami passati, trattandosi della prima edizione del corso.
 Potete, per fare pratica su E-R e SQL, fare riferimento agli esami passati di questo corso (Part I): [Data Management for Big Data](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data)
+
+Potete trovare ulteriori esercizi su E-R (risolti) sulla pagina del [Prof. Angelo Montanari]. 
+Per comodità, li riporto anche [qui](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizi_ER.pdf). La notazione è leggermente diversa da quella vista a lezione, e si basa sul libro di [Elmasri e Navathe, Fundamentals of Database Systems](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf)
