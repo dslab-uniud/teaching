@@ -34,10 +34,14 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-03-15: Esercizi sul modello E-R; [Presentazione di ChronoGeoGraph e Draw.io](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___3___ChronoGeoGraph_e_Draw_io.pdf); [Download di ChronoGeoGraph](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2021-2022/ChronoGeoGraph_Wrapped.jar); [Pagina web di Draw.io](https://app.diagrams.net/), [Soluzione dell'Esercizio 3](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_3.png)
 - 2023-03-22: Esercizio di gruppo sul modello E-R
 
-## Esami passati
+## Esami passati es esercizi risolti
+
+### Esami passati
 
 Non ci sono ancora esami passati, trattandosi della prima edizione del corso.
 Potete, per fare pratica su E-R e SQL, fare riferimento agli esami passati di questo corso (Part I): [Data Management for Big Data](https://github.com/dslab-uniud/teaching/tree/main/courses/Data%20Management%20for%20Big%20Data)
+
+### Esercizi risolti
 
 Potete trovare ulteriori esercizi su E-R (risolti) sulla pagina del [Prof. Angelo Montanari](https://users.dimi.uniud.it/~angelo.montanari/courses.php). 
 Per comodità, li riporto anche [qui](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizi_ER.pdf). La notazione è leggermente diversa da quella vista a lezione, e si basa sul libro di [Elmasri e Navathe, Fundamentals of Database Systems](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf)
