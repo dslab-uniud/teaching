@@ -1,0 +1,22 @@
+Appunti generali su diagramma ER:
+ - la specializzazione di "Persona" è totale e con overlap
+ - la specializzazione di "Classe intervento" è totale e senza overlap
+ - "Intervento" è un'entità debole con relazione identificante "Svolto su"
+
+Assunzioni:
+ - un proprietario viene essere inserito nella base di dati solo se possiede almeno un aereo
+ - un aereo è posseduto da al più un proprietario (si escludono co-intestazioni)
+ - un pilota può essere inserito nella base di dati anche se non ha mai volato
+ - un aereo presente nell'aeroporto può non aver mai volato (es., è nuovo)
+ - di un dato modello d'aereo potrebbero non esserci esemplari presso l'aeroporto
+
+Regole di derivazione:
+ - l'attributo "# aerei" di "Hangar" per uno specifico hangar X viene calcolato contando
+   il numero di relazioni in cui l'hangar X compare
+
+Vincoli non espressi nell'ER:
+ - un impiegato può svolgere un intervento effettivo A di classe B su un aereo X modello Y
+   (relazione "Ha svolto") solo se esso è abilitato, in generale, a svolgere interventi di
+   classe B su modelli d'aereo Y (relazione "Può svolgere")
+ - le coordinate dell'hangar possono costituire una chiave candidata
+ - non si può eccedere la capacità di un hangar
