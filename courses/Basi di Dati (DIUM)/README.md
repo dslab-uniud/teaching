@@ -36,6 +36,8 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-03-23: Soluzione dell'esercizio di gruppo sul modello E-R [Schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/0_ER.png) e [Note sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/0_ER_appunti.txt). [Esercizio d'esame svolto a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Data%20Management%20for%20Big%20Data/2020-2021/test_II.pdf) e [sua possibile soluzione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/soluzione_esercizio_esame.pdf)
 - 2023-03-29: [Il modello relazionale](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___4___Relational_model_bis.pdf)
 - 2023-03-30: [Design logico](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___5___Logical_design.pdf)
+- 2023-04-04: Design logico (cont.)
+
 
 ## Esami passati es esercizi risolti
 
