@@ -1,0 +1,17 @@
+Appunti relativi alla ristrutturazione:
+ - si è deciso di mantenere l'intera gerarchia di "Persona"
+ - l'attributo composto "Indirizzo" di "Persona" è stato collassato su un unico attributo,
+   contenente la stringa intera dell'indirizzo (data la prima forma normale)
+ - è stato rimosso l'attributo derivato "# aerei" da "Hangar": verrà recuperato, in fase
+   di implementazione della base di dati, tramite la definizione di un'opportuna vista
+ - l'attributo composto "Coordinate" di "Hangar" è stato scomposto nei tre attributi
+   componenti (data la prima forma normale)
+ - si è deciso di mantenere unicamente il padre nella gerarchia di "Classe intervento"
+
+
+Riassunto dei vincoli non espressi nell'ER:
+ - un impiegato può svolgere un intervento effettivo A di classe B su un aereo X modello Y
+   (relazione "Ha svolto") solo se esso è abilitato, in generale, a svolgere interventi di
+   classe B su modelli d'aereo Y (relazione "Può svolgere")
+ - le coordinate dell'hangar possono costituire una chiave candidata
+ - non si può eccedere la capacità di un hangar
