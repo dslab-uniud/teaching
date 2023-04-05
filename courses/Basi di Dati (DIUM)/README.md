@@ -37,7 +37,7 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-03-29: [Il modello relazionale](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___4___Relational_model_bis.pdf)
 - 2023-03-30: [Design logico](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___5___Logical_design.pdf)
 - 2023-04-04: Design logico (cont.)
-- 2023-04-05: Ristrutturazione E-R dell'esercizio di gruppo, [schema E-R](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato.png) e [appunti sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato_appunti.txt); schema E-R ristrutturato [dell'Esercizio 2, DB universitario](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_2_ristrutturato.pdf)
+- 2023-04-05: Ristrutturazione E-R dell'esercizio di gruppo, [schema E-R](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato.png) e [appunti sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato_appunti.txt); schema E-R ristrutturato [dell'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_2_ristrutturato.pdf)
 
 
 ## Esami passati es esercizi risolti
