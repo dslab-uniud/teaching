@@ -39,7 +39,7 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-04-04: Design logico (cont.)
 - 2023-04-05: Ristrutturazione E-R dell'esercizio di gruppo riguardante l'aeroporto, [schema E-R](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato.png) e [appunti sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato_appunti.txt); schema E-R ristrutturato [dell'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_2_ristrutturato.pdf)
 - 2023-04-12: Traduzione da E-R a relazionale. [Soluzione dell'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizio%20Uni%20relazionale.png). Soluzione dell'[esercizio di gruppo sull'aeroporto](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/2_schema_logico.txt)
-- 2023-04-13: [Breve introduzione al linguaggio SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___8___SQL.pdf), [Codice SQL (DDL, definizione della base di dati)](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DDL.sql) relativo all'Esercizio 2, base di dati Universitaria (da aprire con un editor di testo come Blocco Note su Windows o Text Edit sul Mac)
+- 2023-04-13: [Breve introduzione al linguaggio SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___8___SQL.pdf)
 
 
 ## Esami passati es esercizi risolti
