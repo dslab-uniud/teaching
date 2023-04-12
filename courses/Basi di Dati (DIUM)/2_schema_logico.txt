@@ -1,0 +1,126 @@
+
+Definizione dello schema logico:
+
+
+persona(cf,nome,cognome,indirizzo,email,telefono)
+	PK: {cf}
+	NOT NULL: {nome}, {cognome}, {indirizzo}, {telefono}
+
+
+proprietario(cf,data_ultimo_pagamento,tasse_complessive)
+	PK: {cf}
+	NOT NULL: {tasse_complessive}
+	FK: {proprietario.cf} -> {persona.cf}
+
+
+pilota(cf,numero_licenza)
+	PK: {cf}
+	NOT NULL: {numero_licenza}
+	FK: {pilota.cf} -> {persona.cf}
+
+
+impiegato(cf,stipendio)
+	PK: {cf}
+	NOT NULL: {stipendio}
+	FK: {impiegato.cf} -> {persona.cf}
+
+
+hangar(numero,capacita,coord_x,coord_y,coord_z)
+	PK: {numero}
+	NOT NULL: {capacita}, {coord_x}, {coord_y}, {coord_z}
+	UNIQUE: {coord_x,coord_y,coord_z}
+
+
+modello(nome,peso,capacita)
+	PK: {nome}
+	NOT NULL: {peso}, {capacità}
+
+
+aereo(numero_registrazione,nome_modello,cf_proprietario,numero_hangar)
+	PK: {numero_registrazione}
+	NOT NULL: {nome_modello}, {cf_proprietario}, {numero_hangar}
+	FK: {aereo.nome_modello} -> {modello.nome},
+	    {aereo.cf_proprietario} -> {proprietario.cf},
+ 	    {aereo.numero_hangar} -> {hangar.numero}
+	
+
+ha_volato_su(cf_pilota,numero_registrazione_aereo,ore)
+	PK: {cf_pilota,numero_registrazione_aereo)
+	NOT NULL: {ore}
+	FK: {ha_volato_su.cf_pilota} -> {pilota.cf}
+	    {ha_volato_su.numero_registrazione_aereo} -> {aereo.numero_registrazione}
+ 
+
+classe_intervento(codice,descrizione,tipo)
+	PK: {codice}
+	NOT NULL: {descrizione}, {tipo}
+
+
+intervento(progressivo,numero_registrazione_aereo,codice_classe_intervento,data,durata)
+	PK: {progressivo,numero_registrazione_aereo}
+	NOT NULL: {data}, {durata}, {codice_classe_intervento}
+	FK: {intervento.numero_registrazione_aereo} -> {aereo.numero_registrazione_aereo},
+	    {intervento.codice_classe_intervento} -> {classe_intervento.codice}
+
+
+puo_svolgere(cf_impiegato,nome_modello,codice_classe_intervento)
+	PK: {cf_impiegato,nome_modello,codice_classe_intervento}
+	FK: {puo_svolgere.cf_impiegato} -> {impiegato.cf},
+	    {puo_svolgere.nome_modello} -> {modello.nome}
+	    {puo_svolgere.codice_classe_intervento} -> {classe_intervento.codice}
+
+
+ha_svolto(cf_impiegato,progressivo_intervento,numero_registrazione_aereo)
+	PK: {cf_impiegato,progressivo_intervento,numero_registrazione_aereo}
+	FK: {ha_svolto.cf_impiegato} -> {impiegato.cf},
+	    {ha_svolto.progressivo_intervento,ha_svolto.numero_registrazione_aereo}
+		-> {intervento.progressivo,intervento.numero_registrazione_aereo}
+
+
+Vincoli non esprimibili nello schema logico (ereditati dall'ER ristrutturato):
+ - un impiegato può svolgere un intervento effettivo A di classe B su un aereo X modello Y
+   (relazione "Ha svolto") solo se esso è abilitato, in generale, a svolgere interventi di
+   classe B su modelli d'aereo Y (relazione "Può svolgere")
+ - non si può eccedere la capacità di un hangar
+
+
+Vincoli non esprimibili nell'ER ristrutturato ma espressi nello schema logico:
+ - le coordinate dell'hangar possono costituire una chiave candidata (vedasi UNIQUE)
+
+
+Vincoli non esprimibili nello schema logico:
+ - l'attributo "tipo" di "classe_intervento" può assumere solamente i valori "manutenzione", "pulizia" e "rifornimento"
+ - ogni istanza di persona deve corrispondere ad almeno un'istanza fra proprietario, pilota e impiegato (la specializzazione è totale)
+ - partecipazioni obbligatorie:
+	# entità "Proprietario" con la relazione "Possiede": ogni proprietario possiede almeno un aereo
+	# entità "Intervento" con la relazione "Ha svolto": un intervento è svolto da almeno un impiegato
+	# entità "Impiegato", "Modello" e "Classe intervento" con la relazione "Può svolgere": vincolo di 
+            partecipazione obbligatoria per le entità coinvolte nella ternaria, vale a dire, non memorizzo
+            una classe di intervento se non è previsto il suo potenziale svolgimento, non memorizzo un 
+            impiegato se non è abilitato a svolgere nulla, non memorizzo un modello se non vi è nessun
+            intervento che può essere svolto su di esso
+
+
+Complessivamente, i vincoli non esprimibili sono quindi:
+ - un impiegato può svolgere un intervento effettivo A di classe B su un aereo X modello Y
+   (relazione "Ha svolto") solo se esso è abilitato, in generale, a svolgere interventi di
+   classe B su modelli d'aereo Y (relazione "Può svolgere")
+ - l'attributo "tipo" di "classe_intervento" può assumere solamente i valori "manutenzione", "pulizia"
+   e "rifornimento"
+ - ogni istanza di persona deve corrispondere ad almeno un'istanza fra proprietario, pilota e impiegato
+   (la specializzazione è totale)
+ - non si può eccedere la capacità di un hangar
+ - partecipazioni obbligatorie:
+	# entità "Proprietario" con la relazione "Possiede": ogni proprietario possiede almeno un aereo
+	# entità "Intervento" con la relazione "Ha svolto": un intervento è svolto da almeno un impiegato
+            sostituzione in almeno una classe di intervento
+	# entità "Impiegato", "Modello" e "Classe intervento" con la relazione "Può svolgere": vincolo di 
+            partecipazione obbligatoria per le entità coinvolte nella ternaria, vale a dire, non memorizzo
+            una classe di intervento se non è previsto il suo potenziale svolgimento, non memorizzo un 
+            impiegato se non è abilitato a svolgere nulla, non memorizzo un modello se non vi è nessun
+            intervento che può essere svolto su di esso
+
+
+Altri appunti:
+- si ricordi che nell'ER ristrutturato è stato rimosso l'attributo derivato "# aerei" da "Hangar": verrà recuperato, 
+  in fase di implementazione della base di dati utilizzando SQL, tramite la definizione di un'opportuna vista
