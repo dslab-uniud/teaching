@@ -38,7 +38,7 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-03-30: [Design logico](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___5___Logical_design.pdf)
 - 2023-04-04: Design logico (cont.)
 - 2023-04-05: Ristrutturazione E-R dell'esercizio di gruppo, [schema E-R](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato.png) e [appunti sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/1_ER_ristrutturato_appunti.txt); schema E-R ristrutturato [dell'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_2_ristrutturato.pdf)
-- 2023-04-12: Traduzione da E-R a relazionale
+- 2023-04-12: Traduzione da E-R a relazionale. [Soluzione dell'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizio%20Uni%20relazionale.png.png). Soluzione dell'[esercizio di gruppo sull'aeroporto](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/2_schema_logico.txt)
 
 
 ## Esami passati es esercizi risolti
@@ -51,4 +51,6 @@ Potete, per fare pratica su E-R e SQL, fare riferimento agli esami passati di qu
 ### Esercizi risolti
 
 Potete trovare ulteriori esercizi su E-R (risolti) sulla pagina del [Prof. Angelo Montanari](https://users.dimi.uniud.it/~angelo.montanari/courses.php). 
-Per comodità, li riporto anche [qui](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizi_ER.pdf). La notazione è leggermente diversa da quella vista a lezione, e si basa sul libro di [Elmasri e Navathe, Fundamentals of Database Systems](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf)
+Per comodità, li riporto anche [qui](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizi_ER.pdf). La notazione è leggermente diversa da quella vista a lezione, e si basa sul libro di [Elmasri e Navathe, Fundamentals of Database Systems](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf).
+
+Inoltre, altri esercizi risolti su E-R e SQL sono disponibili nelle dispense del [Prof. Andrea Schaerf](https://uniudamce-my.sharepoint.com/personal/andrea_schaerf_uniud_it/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fandrea%5Fschaerf%5Funiud%5Fit%2FDocuments%2FDispense%2FDispensaBasiDati%2DAA2019%2D20%2Epdf&parent=%2Fpersonal%2Fandrea%5Fschaerf%5Funiud%5Fit%2FDocuments%2FDispense&ga=1)
