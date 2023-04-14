@@ -123,6 +123,7 @@ Remember, finally, the further constraints that should be specified:
 	* "author" and "book" have a total participation to the relation "written_by"
 	* "book", "course_edition" and "professor" have a total participation to the relation "teaches"
 	* a professor can only teach course_editions (rel. "teaches") of courses he/she is allowed to (rel. "can_teach")
+	* a professor can only be in charge of a deparment he/she belongs to
 
 There is the derived attribute "#professors" which has been removed from table "department".
 We will get it back through the definition of a view.
@@ -485,4 +486,5 @@ At this point, these constraints still have to be handled:
 	* "book", "course_edition" and "professor" have a total participation to the relation "teaches"
 	* a professor can only teach course_editions (rel. "teaches") of courses he/she is allowed to (rel. "can_teach")
 	* only full professors can be in charge of a department
+	* a professor can only be in charge of a deparment he/she belongs to
 */
