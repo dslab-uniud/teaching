@@ -490,4 +490,9 @@ At this point, these constraints still have to be handled:
 
 These constraints need some advanced SQL to be handled, that includes the so called
 "User Defined Functions" and "Triggers".
+
+There is the derived attribute "#professors" which has been removed from table "department".
+This requires the notion of "view", which is another advanced SQL construct.
 */
+
+
