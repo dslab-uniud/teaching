@@ -116,6 +116,8 @@ Remember, finally, the further constraints that should be specified:
 	* a professor has at least a phone number
 	* a department has at least one professor
 	* "kind" in "professor" can only have the values "full" or "associate"
+	* full professor have a promotion day, while associate professors have that value NULL
+	* only full professors can be in charge of a department
 	* a professor should be capable of teaching at least one course (relation "can_teach")
 	* every course must have a professor capable of teaching it (relation "can_teach")
 	* "author" and "book" have a total participation to the relation "written_by"
@@ -338,6 +340,30 @@ has already been defined through a "CREATE" instruction.
 */
 
 
+/* 
+Remember another constraint regarding the professors
+	- full professor have a promotion day, while associate professors have that value NULL
+
+That can be handled by means of a CHECK constraint
+
+A CHECK constraint is a kind of constraint that allows you to specify that values in a 
+column must meet a specific requirement (do you remember the general tuple-level constraints
+that we mentioned when introducing the relational model?).
+Such a requirement can be specified by means of boolean expressions, i.e., expressions that,
+when evaluated on a tuple, return a truthness value, either "True" (when the tuple satisfies
+the associated constraint), or "False" (when the tuple violates the associated constraint).
+
+Let us implement this constraint: the fact that all full professors, and only them, have a 
+non-null value of "promotion_day"
+*/
+
+ALTER TABLE professor
+ADD constraint ck_professor_date 
+CHECK(NOT(kind = 'associate' AND promotion_day IS NOT NULL) AND NOT(kind = 'full' AND promotion_day IS NULL));
+
+
+
+
 
 
 /*
@@ -446,3 +472,17 @@ CREATE TABLE teaches(
 	CONSTRAINT teaches_fk_course_ed foreign key (course_year, course_code) references course_edition(year, course_code)
 		ON DELETE RESTRICT ON UPDATE CASCADE
 );
+
+
+
+/*
+At this point, these constraints still have to be handled:
+	* a professor has at least a phone number
+	* a department has at least one professor
+	* a professor should be capable of teaching at least one course (relation "can_teach")
+	* every course must have a professor capable of teaching it (relation "can_teach")
+	* "author" and "book" have a total participation to the relation "written_by"
+	* "book", "course_edition" and "professor" have a total participation to the relation "teaches"
+	* a professor can only teach course_editions (rel. "teaches") of courses he/she is allowed to (rel. "can_teach")
+	* only full professors can be in charge of a department
+*/
