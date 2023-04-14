@@ -487,4 +487,7 @@ At this point, these constraints still have to be handled:
 	* a professor can only teach course_editions (rel. "teaches") of courses he/she is allowed to (rel. "can_teach")
 	* only full professors can be in charge of a department
 	* a professor can only be in charge of a deparment he/she belongs to
+
+These constraints need some advanced SQL to be handled, that includes the so called
+"User Defined Functions" and "Triggers".
 */
