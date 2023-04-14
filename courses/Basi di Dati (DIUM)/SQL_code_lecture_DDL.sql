@@ -412,7 +412,7 @@ https://www.postgresql.org/docs/current/ddl.html
 
 ALTER TABLE professor 
 ADD CONSTRAINT prof_fk_dep foreign key (department_code) references department(code)
-	ON DELETE restrict ON UPDATE cascade;
+	ON DELETE restrict ON UPDATE cascade DEFERRABLE;
 
 
 /*
