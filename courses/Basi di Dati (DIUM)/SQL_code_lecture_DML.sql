@@ -949,9 +949,42 @@ multiple levels of nesting.
 Such queries can be useful to extract information such as:
 
 "Give me all information regarding professors that can teach all courses professor 'XYZ' can teach."
-
-Nevertheless, such queries are rather convoluted and we are not going to see them in this course.
 */
+
+select * 
+from professor
+where not exists (select *
+				  from teaches as tea_MNK 
+				  where tea_MNK.professor_cf = 'MNKWYN34M34'
+				        and not exists (select *
+									    from teaches as tea
+										where professor.cf = tea.professor_cf
+												and tea.course_code = tea_MNK.course_code
+									    )
+				 );
+	  
+
+-- A professor "A" is returned by the query if it does not exist any course taught by 'MNKWYN34M34'
+-- such that I cannot find any evidence of "A" not teaching it
+
+
+-- Variant (not double-nested)
+
+select * 
+from professor
+where not exists (select course_code
+				  from teaches
+				  where teaches.professor_cf = 'MNKWYN34M34'
+				 except
+				  select course_code
+				  from teaches
+				  where teaches.professor_cf = professor.cf 
+				 );
+
+
+-- EXERCISE: extract all information regarding all DMIF professors that can teach at least one course
+--           that professor 'ULDRFN65M45' cannot teach
+
 
 
 
