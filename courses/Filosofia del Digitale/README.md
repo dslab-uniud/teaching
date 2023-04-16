@@ -1,3 +1,8 @@
+Material for the course "Data Management for Big Data", held within "Filosofia del Digitale" (Digital Philosophy) first-level master course, 2023 edition.
+
+* TODO
+
+
 Material for the course "Data Management for Big Data", held within "Filosofia del Digitale" (Digital Philosophy) first-level master course, 2022 edition.
 
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___0___Course_introduction.pdf)
