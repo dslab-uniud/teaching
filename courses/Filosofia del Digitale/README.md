@@ -1,6 +1,7 @@
 ## "Data Management for Big Data" @ "Filosofia del Digitale", 2023 edition
 
-* TODO
+* [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%200%20-%20Introduzione%20al%20corso.pdf)
+* [Introduction to database management systems](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%201%20-%20Introduzione%20alle%20basi%20di%20dati.pdf)
 
 
 
