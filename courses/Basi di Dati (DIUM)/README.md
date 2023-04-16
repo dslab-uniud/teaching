@@ -40,6 +40,11 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-04-12: Traduzione da E-R a relazionale. [Soluzione dell'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/esercizio_2_universita_relazionale.png). Soluzione dell'[esercizio di gruppo sull'aeroporto](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/2_schema_logico.txt)
 - 2023-04-13: [Breve introduzione al linguaggio SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Basi_di_Dati___8___SQL.pdf), [Codice SQL DDL per l'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DDL.sql) (apritelo con Blocco Note su Windows o Text Edit su Mac)
 - 2023-04-19: [Codice per popolare la base di dati universitaria, Esercizio 2](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_population.sql), [Codice SQL DML per l'Esercizio 2, base di dati universitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML.sql)
+- 2023-04-20: 
+- 2023-04-26: 
+- 2023-04-27: 
+- 2023-05-03: 
+- 2023-05-04: 
 
 
 ## Esami passati es esercizi risolti
@@ -65,6 +70,7 @@ Esercizio 2, base di dati universitaria:
 - [Codice SQL DDL](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DDL.sql)
 - [Codice SQL per il popolamento della base di dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_population.sql)
 - [Codice SQL DML](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML.sql)
+- [Viste e UDF](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_advanced.sql)
 
 Esercizio di gruppo sull'aeroporto:
 - E-R: [schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/0_ER.png) e [note sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/0_ER_appunti.txt)
