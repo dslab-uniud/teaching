@@ -55,3 +55,7 @@ Potete trovare ulteriori esercizi su E-R (risolti) sulla pagina del [Prof. Angel
 Per comodità, li riporto anche [qui](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Esercizi_ER.pdf). La notazione è leggermente diversa da quella vista a lezione, e si basa sul libro di [Elmasri e Navathe, Fundamentals of Database Systems](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf).
 
 Inoltre, altri esercizi risolti su E-R e SQL sono disponibili nelle dispense del [Prof. Andrea Schaerf](https://uniudamce-my.sharepoint.com/:b:/g/personal/andrea_schaerf_uniud_it/EYzIcXCGL6JOs6_19cYqQgYB9hS9PLie3aU7ROxaNXPndw?e=aqYmXU)
+
+### Altri esempi su SQL (DDL, popolamento, DML)
+
+- [Altro caso di una diversa base di dati univesitaria](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/another_exemplary_code.sql)
