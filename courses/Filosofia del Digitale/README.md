@@ -3,6 +3,7 @@
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%200%20-%20Introduzione%20al%20corso.pdf)
 * [Introduction to database management systems](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%201%20-%20Introduzione%20alle%20basi%20di%20dati.pdf)
 * [The relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%202%20-%20The%20relational%20model.pdf)
+* [SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%203%20-%20SQL.pdf)
 
 
 
