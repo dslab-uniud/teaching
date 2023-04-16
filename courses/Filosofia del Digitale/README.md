@@ -1,11 +1,11 @@
-# "Data Management for Big Data" @ "Filosofia del Digitale", 2023 edition
+## "Data Management for Big Data" @ "Filosofia del Digitale", 2023 edition
 
 * TODO
 
 
 
 
-# "Data Management for Big Data" @ "Filosofia del Digitale", 2022 edition
+## "Data Management for Big Data" @ "Filosofia del Digitale", 2022 edition
 
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___0___Course_introduction.pdf)
 * [Introduction to database management systems](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/Master_Uniud_2022___1___Introduction_to_Databases.pdf)
@@ -21,7 +21,7 @@
 
 
 
-# "Data Management for Big Data" @ "Filosofia del Digitale", 2021 edition
+## "Data Management for Big Data" @ "Filosofia del Digitale", 2021 edition
 
 * [Introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/0%20-%20Introduction.pdf)
 * [Relational Model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/1%20-%20Relational%20Model.pdf)
