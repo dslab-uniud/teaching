@@ -5,6 +5,7 @@
 * [The relational model](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%202%20-%20The%20relational%20model.pdf)
 * [SQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%203%20-%20SQL.pdf)
 * [Big Data and NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%204%20-%20Big%20Data%20and%20NoSQL.pdf)
+* [Data warehousing and business analytics](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%205%20-%20Data%20Warehousing%20and%20Business%20Analytics.pdf)
 
 
 
