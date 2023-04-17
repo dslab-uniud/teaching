@@ -7,6 +7,7 @@
 * [Big Data and NoSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%204%20-%20Big%20Data%20and%20NoSQL.pdf)
 * [Data warehousing and business analytics](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%205%20-%20Data%20Warehousing%20and%20Business%20Analytics.pdf)
 * [PostgreSQL](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%206%20-%20PostgreSQL.sql) (open the file with Notepad on Windows or Text Edit on Mac)
+* [Storytelling with data](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale/2023%20-%207%20-%20Storytelling%20with%20data.pdf)
 
 
 
