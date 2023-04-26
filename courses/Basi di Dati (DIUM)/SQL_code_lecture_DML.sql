@@ -407,10 +407,13 @@ WHERE professor.department_code = 'DMIF';
 
 
 /*
+WHAT IS CONTAINED IN THIS COMMENT HAS NOT BEEN SEEN DURING THE LECTURES.
+THUS, IT WILL NOT BE INCLUDED IN THE EXAM.
+
+
 What if we wanted to extract information regarding each course, together with its prerequisites?
 Such a query sinvolves using a copy of the table course.
 In SQL, to do that, we can use table renaming, by means of keyword AS.
-*/
 
 SELECT c1.*, c2.*
 FROM course as c1
@@ -419,11 +422,6 @@ FROM course as c1
 		
 -- Note again that, in this case, we are required to use our "table.attribute" notation, in order
 -- to refer to the attributes in an unambiguous way.
-
-
-
-
-/* 
 
 What has happened in such a query? Can you spot anything missing from the result?
 We actually lost information regarding all the courses without any prerequisites.
@@ -457,7 +455,6 @@ A FULL OUTER JOIN B: performs the join betweeen A and B. Then, to the result set
                      it also adds all the tuples from B that did not match any row
 					 in A. For such rows, the values of the attributes that would 
 					 have come from a matching tuple of A are set to NULL.
-*/
 
 
 -- Extract information regarding all courses, possibly with the information related
@@ -473,6 +470,13 @@ FROM course as c1
 
 -- EXERCISE: extract information regarding all courses. For the courses with
 --           course editions, we also want to get information regarding the latter
+
+SELECT *
+FROM course 
+		LEFT OUTER JOIN course_edition on course.code = course_edition.course_code;
+
+*/
+
 
 
 
@@ -569,24 +573,12 @@ where year = 2020 or year = 2021;
 Thanks to table renaming through the AS construct, SQL allows us to "count in a bounded way",
 by performing "table copies" as we did with relational algebra.
 
-This means that it is possible to specify a query such as "find the direct prerequisite of course X"
+This means that it is possible to specify a query such as "find the direct prerequisites of course X"
 
-Also, it is possible to retreive "the direct prerequiste of the direct prerequisite of course X"
-*/
+Also, it is possible to retreive "the direct prerequistes of the direct prerequisites of course X"
 
-
--- EXERCISE: find all information regarding the prerequisite of course "GEO02"
-
-
-
--- EXERCISE: find all information regarding the prerequisite of the prerequisite of course "GEO02"
-
-
-
-
-/* 
 How can we deal with a situation in which we do not know the "length" of this chain of relations?
-In other words, how can we write "unbounded" queries?
+In other words, how can we write "unbounded" queries? 
 
 If we want to extract all direct and indirect prerequisites of course "OBINF", we must rely on
 RECURSIVE QUERIES.
@@ -595,6 +587,11 @@ We are not going to see them in this course, just be aware that they exist.
 Here some further information:
 https://www.postgresql.org/docs/current/queries-with.html#QUERIES-WITH-RECURSIVE 
 */
+
+
+-- EXERCISE: find all information regarding the direct prerequisites of course "GEO02"
+
+
 
 
 
