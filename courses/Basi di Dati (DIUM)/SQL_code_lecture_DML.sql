@@ -769,8 +769,10 @@ The query performs the operations in the following order:
 
 
 
--- EXERCISE: for each professor, return the number of course editions taught and the number
---           of distinct courses taught
+
+-- EXERCISE: for each professor, return the number of distinct courses taught and the
+--           number of distinct books used
+
 
 
 
@@ -811,7 +813,7 @@ or tuples.
 Such a set can be fixed, for instance ('red', 'green', 'blue'), or it can 
 be specified by means of an SQL query.
 
-For instance, we may want to extract all professors that are allowed to teach all courses
+For instance, we may want to extract all professors that are allowed to teach at least one course
 that professor "MNKWYN34M34" can teach.
 */
 
@@ -901,7 +903,7 @@ the opposite behaviour.
 */
 
 
--- Let us extract all information regarding courses that have a course edition
+-- Let us extract all information regarding courses that have at least one course edition
 
 SELECT *
 FROM course
@@ -945,8 +947,24 @@ In principle, it is possible to nest queries within nested queries, obtaining
 multiple levels of nesting.
 Such queries can be useful to extract information such as:
 
-"Give me all information regarding professors that can teach all courses professor 'XYZ' can teach."
+"Extract all information regarding courses that have at least two course editions"
+
 */
+
+SELECT *
+FROM course
+WHERE EXISTS (SELECT *
+			  FROM course_edition AS ce1
+			  WHERE ce1.course_code = course.code
+			 		AND EXISTS (SELECT *
+							    FROM course_edition AS ce2
+							   	WHERE ce2.course_code = course.code
+							   			AND ce2.year != ce1.year)
+			 );
+			 
+
+
+-- "Give me all information regarding professors that can teach all courses professor 'XYZ' can teach."
 
 select * 
 from professor
@@ -961,7 +979,7 @@ where not exists (select *
 				 );
 	  
 
--- A professor "A" is returned by the query if it does not exist any course taught by 'MNKWYN34M34'
+-- A professor "A" is returned by the query above if it does not exist any course taught by 'MNKWYN34M34'
 -- such that I cannot find any evidence of "A" not teaching it
 
 
