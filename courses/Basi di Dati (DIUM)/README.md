@@ -43,7 +43,7 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-04-20: SQL DML, costrutti base
 - 2023-04-26: SQL DML, condizioni universali ed esistenziali
 - 2023-04-27: SQL DML, la clausola group by e prime query annidate
-- 2023-05-03: SQL DML, [soluzione degli esercizi DML visti a lezione)[https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML_esercizi.sql]
+- 2023-05-03: SQL DML, [soluzione degli esercizi DML visti a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML_esercizi.sql)
 - 2023-05-04: 
 
 
@@ -70,7 +70,7 @@ Esercizio 2, base di dati universitaria:
 - [Codice SQL DDL](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DDL.sql)
 - [Codice SQL per il popolamento della base di dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_population.sql)
 - [Codice SQL DML](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML.sql)
-- [Soluzione degli esercizi DML visti a lezione)[https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML_esercizi.sql]
+- [Soluzione degli esercizi DML visti a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML_esercizi.sql)
 - [Viste e UDF (non nell'esame)](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_advanced.sql)
 
 Esercizio di gruppo sull'aeroporto:
