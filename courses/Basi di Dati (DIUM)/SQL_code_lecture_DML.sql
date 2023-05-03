@@ -943,6 +943,16 @@ FROM course
 
 
 /* 
+
+
+INIZIO PARTE NON NELL'ESAME 
+
+
+*/
+
+
+
+/* 
 In principle, it is possible to nest queries within nested queries, obtaining
 multiple levels of nesting.
 Such queries can be useful to extract information such as:
@@ -1043,6 +1053,21 @@ FROM professor
 WHERE department_code = 'DMIF';
 
 
+
+
+/* 
+
+
+FINE PARTE NON NELL'ESAME 
+
+
+*/
+
+
+
+
+
+
 /*
 The last option by which we can store temporary information is provided by the WITH
 construct, that defines the so called "Common Table Expressions" (CTEs)
@@ -1094,4 +1119,3 @@ WHERE NOT EXISTS (	SELECT *
 
 
 -- EXERCISE: retrieve the name and surname of the authors that have written with the lowest number of books
-
