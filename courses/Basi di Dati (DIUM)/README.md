@@ -71,7 +71,7 @@ Esercizio 2, base di dati universitaria:
 - [Codice SQL per il popolamento della base di dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_population.sql)
 - [Codice SQL DML](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML.sql)
 - [Soluzione degli esercizi DML visti a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML_esercizi.sql)
-- [Viste e UDF (non nell'esame)](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_advanced.sql)
+- [Viste e UDF](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_advanced.sql), non nell'esame
 
 Esercizio di gruppo sull'aeroporto:
 - E-R: [schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/0_ER.png) e [note sullo schema](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/0_ER_appunti.txt)
