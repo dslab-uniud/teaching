@@ -44,7 +44,7 @@ World_, 3rd edition. W. Kent. 2012 (1978)
 - 2023-04-26: SQL DML, condizioni universali ed esistenziali
 - 2023-04-27: SQL DML, la clausola group by e prime query annidate
 - 2023-05-03: SQL DML, [soluzione degli esercizi DML visti a lezione](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/SQL_code_lecture_DML_esercizi.sql)
-- 2023-05-04: 
+- 2023-05-04: [Demo esame](https://github.com/dslab-uniud/teaching/blob/main/courses/Basi%20di%20Dati%20(DIUM)/Prova_esame_DIUM.pdf)
 
 
 ## Esami passati es esercizi risolti
