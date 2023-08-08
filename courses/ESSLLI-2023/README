@@ -1,0 +1,10 @@
+### The Safety Fragment of Temporal Logics of Infinite Sequences
+
+Area: Logic and Computation (LoCo)
+
+Level: Introductory
+
+Lecturer(s): Luca Geatti and Angelo Montanari
+
+Abstract:
+In AI and Formal Verification, temporal logics of infinite sequences are extensively used to model, verify, and synthesize hardware and software systems. An important class of them is the safety fragment, that expresses the fact that “something bad never happens”. Languages in this class are such that a prefix of a sequence suffices to establish whether it belongs or not to the language, allowing to reason over finite sequences. The course focuses on such a safety fragment. It defines it, studies its formalizations in terms of first-order logic, temporal logic, and automata, and explores its relationships with the Temporal Hierarchy. Then, it investigates its computational properties, in terms of both worst-case complexity and efficient algorithms for model checking and synthesis. Finally, it discusses succinctness issues.
