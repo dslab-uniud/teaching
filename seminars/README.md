@@ -1,6 +1,8 @@
 # Seminars
 Content presented during seminars endorsed by the laboratory.
 
+## Year 2023
+* [The Safety Fragment of Temporal Logics of Infinite Sequences (Luca Geatti, Angelo Montanari)](https://github.com/dslab-uniud/teaching/blob/main/seminars/2023/esslli2023.pdf)
 
 ## Year 2022
 
