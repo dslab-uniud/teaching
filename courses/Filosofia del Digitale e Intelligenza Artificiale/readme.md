@@ -8,3 +8,4 @@ Material of the course "Data Management for Big Data", held within the course "F
 - [Data warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/5%20-%20Data%20Warehousing.pdf)
 - [Storytelling with data](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/6%20-%20Storytelling%20with%20data.pdf)
 - [File used within the Power BI Example](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/ufo_sightings_scrubbed.csv)
+- [File used within the ChatGPT example](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/9%20-%20titanic.csv)
