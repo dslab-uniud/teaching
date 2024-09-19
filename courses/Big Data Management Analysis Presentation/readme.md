@@ -4,6 +4,8 @@ Material for the course "Big Data Management, Analysis, and Presentation", held 
 
 #### PART 1, 2024-10-09: LLMs and prompt engineering for data analysis 
 
+[LLMs and prompt engineering](https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/1%20-%20ChatGPT.pdf)
+
 
 #### PART 2, 2024-10-16: Data visualization, theory, and practice with power B.I.
 
