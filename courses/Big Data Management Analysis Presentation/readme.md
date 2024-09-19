@@ -10,7 +10,7 @@ Material for the course "Big Data Management, Analysis, and Presentation", held 
 
 #### PART 2, 2024-10-16: Data visualization, theory, and practice with power B.I.
 
-* Storytelling with data (TO DO)
+* [Storytelling with data](https://github.com/dslab-uniud/teaching/tree/main/courses/Big%20Data%20Management%20Analysis%20Presentation#:~:text=13%20minutes%20ago-,3%20%2D%20Storytelling%20with%20data.pdf,-Add%20files%20via)
 * Power B.I. (TO DO)
 * [UFO dataset used with Power B.I.](https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/ufo_sightings_scrubbed.csv)
 
