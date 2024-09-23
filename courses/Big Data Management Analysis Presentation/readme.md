@@ -1,5 +1,9 @@
 Material for the course "Big Data Management, Analysis, and Presentation", held in October 2024 at the University of Nova Gorica.
 
+<p align="center">
+<img src='https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/cover.png' width=25%>
+</p>
+
 * [Course introduction](https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/0%20-%20Course%20introduction.pdf)
 
 ### PART 1, 2024-10-09: LLMs and prompt engineering for data analysis 
