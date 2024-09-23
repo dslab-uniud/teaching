@@ -15,4 +15,4 @@ Material for the course "Big Data Management, Analysis, and Presentation", held 
 
 ### PART 3, 2024-10-23: Data provenance and storage
 
-* DMBD (TO DO)
+* [Data provenance and storage](https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/5%20-%20Data%20provenance%20and%20storage.pdf)
