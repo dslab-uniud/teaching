@@ -16,6 +16,7 @@ Material for the course "Big Data Management, Analysis, and Presentation", held 
 
 * [Storytelling with data](https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/3%20-%20Storytelling%20with%20data.pdf)
 * [UFO dataset used with Power B.I.](https://github.com/dslab-uniud/teaching/blob/main/courses/Big%20Data%20Management%20Analysis%20Presentation/ufo_sightings_scrubbed.csv)
+* [Recording of the Power B.I. part](https://filebin.net/naesqbql536bwusu) (will expire on 22nd Oct 2024)
 
 ### PART 3, 2024-10-23: Data provenance and storage
 
