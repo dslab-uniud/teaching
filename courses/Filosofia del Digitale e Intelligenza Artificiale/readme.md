@@ -8,4 +8,4 @@ Material of the course "Data Management for Big Data", held within the course "F
 - [Data warehousing](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/5%20-%20Data%20Warehousing.pdf)
 - [Storytelling with data](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/7%20-%20Storytelling%20with%20data.pdf)
 - [Power BI](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/ufo_sightings_scrubbed.csv)
-- [LLM per l'analisi dei dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/9%20-%20titanic.csv)
+- [LLM per l'analisi dei dati](https://github.com/dslab-uniud/teaching/blob/main/courses/Filosofia%20del%20Digitale%20e%20Intelligenza%20Artificiale/9%20-%20titanic.csv) ... lo vedrete bene con Nicola Saccomanno
