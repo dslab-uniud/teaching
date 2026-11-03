@@ -14,12 +14,12 @@ The course concludes with a **hands-on data analysis session using ChatGPT**, co
 
 ## Materials
 
-- (Lecture slides)[todo] 
-- (Hands-on dataset)[todo]
+- [Lecture slides](todo) 
+- [Hands-on dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/A%20Whirlwind%20Introduction%20to%20Gen%20AI%20and%20LLMs/adult.csv)
   
 ## Hands-on session
 
-We will use the [Adult (Census Income) dataset](todo), originally from the UCI Machine Learning Repository.
+We will use the [Adult (Census Income) dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/A%20Whirlwind%20Introduction%20to%20Gen%20AI%20and%20LLMs/adult.csv), originally from the UCI Machine Learning Repository.
 Students are welcome to bring their laptops to follow along, but this is optional.
 
 ## Instructor
