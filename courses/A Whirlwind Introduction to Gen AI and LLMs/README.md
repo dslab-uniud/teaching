@@ -14,7 +14,7 @@ The course concludes with a **hands-on data analysis session using ChatGPT**, co
 
 ## Materials
 
-- [Lecture slides](todo) 
+- [Lecture slides](https://github.com/dslab-uniud/teaching/blob/main/courses/A%20Whirlwind%20Introduction%20to%20Gen%20AI%20and%20LLMs/Portogallo_Aveiro_2026___8_hours__Generative_AI___L_LMs__and_prompt_engineering.pdf) 
 - [Hands-on dataset](https://github.com/dslab-uniud/teaching/blob/main/courses/A%20Whirlwind%20Introduction%20to%20Gen%20AI%20and%20LLMs/adult.csv)
   
 ## Hands-on session
